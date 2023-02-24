@@ -18,7 +18,7 @@ if d == 0:
     x = (-b/2*a)
     x2 = x
     print (x, x2)
-if d > 0:
+if d > 0:           
     x = (-b + math.sqrt(d))/(2*a)
     x2 = (-b-math.sqrt(d))/(2*a)
     print (x, x2)
